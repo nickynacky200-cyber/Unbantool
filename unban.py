@@ -12,11 +12,11 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # ===== Tool login =====
-tool_username = "admin"
-tool_password = "admins"
+tool_username = "nicky"
+tool_password = "nickys"
 
 # ===== Your personal Gmail credentials =====
-your_email = "drwilliamsdrugsdealer@gmail.com"
+your_email = "nickynacky200@gmail.com"
 your_app_password = "tulionnpiswncexy"
 
 # ===== WhatsApp Business API credentials =====
@@ -79,19 +79,16 @@ while True:
 
         # Banner art
         print(banner_color + '''
-⠀⠀⠀    ⣠⣶⣶⣶⣶
-⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣴⣶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣧
-⠀⠀⠀⠀⣼⣿⣿⣿⡿⣿⣿⣆⠀⠀⠀⠀⠀⠀⣠⣴⣶⣤⡀⠀
-⠀⠀⠀⢰⣿⣿⣿⣿⠃⠈⢻⣿⣦⠀⠀⠀⠀⣸⣿⣿⣿⣿⣷⠀
-⠀⠀⠀⠘⣿⣿⣿⡏⣴⣿⣷⣝⢿⣷⢀⠀⢀⣿⣿⣿⣿⡿⠋⠀
-⠀⠀⠀⠀⢿⣿⣿⡇⢻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀
-⠀⠀⠀⠀⢸⣿⣿⣇⢸⣿⣿⡟⠙⠛⠻⣿⣿⣿⣿⡇⠀⠀⠀⠀
-⣴⣿⣿⣿⣿⣿⣿⣿⣠⣿⣿⡇⠀⠀⠀⠉⠛⣽⣿⣇⣀⣀⣀⠀
-⠙⠻⠿⠿⠿⠿⠿⠟⠿⠿⠿⠇⠀⠀⠀⠀⠀⠻⠿⠿⠛⠛⠛
+⠀⠀⠀⠀  ⣤⣤⣤⣤⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⣿⡿⠿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⣿⣷⣶⣾⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢹⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣀⣤⣶⣶⣾⣿⣿⣿⣷⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠉⠛⠿⠿⠿⠿⠿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀
 ''')
         typewriter(Fore.YELLOW + "This tool was made by Nicky tech.\n", delay=0.06)
         break
