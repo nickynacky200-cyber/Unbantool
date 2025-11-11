@@ -17,7 +17,7 @@ pip install colorama
 pip install requests
 git clone https://github.com/nickynacky200-cyber/Unbantool
 termux-setup-storage
-cd UnbanMethods
+cd Unbantool
 ```
 ## To Install in Kali Linux 
 
@@ -28,7 +28,7 @@ sudo apt install python3 python3-pip
 pip3 install requests
 pip3 install colorama
 git clone https://github.com/nickynacky200-cyber/Unbantool
-cd UnbanMethods
+cd Unbantool
 python3 unban.py
 
 ```
@@ -50,7 +50,7 @@ After login, the tool shows a welcome animation and voice message saying:
 </p>
 
 
-## 📲 Contact Me Crypto Lord:
+## 📲 Contact Me Nicky tech:
 
 [💬 Message Me on WhatsApp](https://wa.me/2349051906943?text=HI%20NICKY%20TECH%0APlease%20I%20will%20love%20to%20learn%20more%20about%20Coding.%20How%20can%20I%20start%3F)
 
